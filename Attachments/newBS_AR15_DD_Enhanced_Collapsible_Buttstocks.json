@@ -8,8 +8,8 @@
       "BackgroundColor": "violet",
       "Ergonomics": 5,
       "ConflictingItems": [],
-      "CanRequireOnRagfair": false,
-      "CanSellOnRagfair": false,
+      "CanRequireOnRagfair": true,
+      "CanSellOnRagfair": true,
       "Recoil": -24
     },
     "locales": {

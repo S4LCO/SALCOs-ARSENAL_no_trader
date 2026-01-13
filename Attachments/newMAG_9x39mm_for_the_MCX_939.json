@@ -78,22 +78,6 @@
       {
         "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
         "probability": 750
-      },
-      {
-        "containerName": "LOOTCONTAINER_WOODEN_AMMO_BOX",
-        "probability": 750
-      },
-      {
-        "containerName": "LOOTCONTAINER_WOODEN_AMMO_BOX_3X3_2",
-        "probability": 750
-      },
-      {
-        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
-        "probability": 750
-      },
-      {
-        "containerName": "LOOTCONTAINER_WOODEN_CRATE_5X2_2",
-        "probability": 750
       }
     ]
   }

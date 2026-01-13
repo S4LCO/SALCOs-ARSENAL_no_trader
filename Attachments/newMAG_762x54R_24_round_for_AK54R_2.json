@@ -8,8 +8,8 @@
       "BackgroundColor": "violet",
       "Ergonomics": -3,
       "ConflictingItems": [],
-      "CanRequireOnRagfair": false,
-      "CanSellOnRagfair": false,
+      "CanRequireOnRagfair": true,
+      "CanSellOnRagfair": true,
       "Cartridges": [
         {
           "_name": "cartridges",
