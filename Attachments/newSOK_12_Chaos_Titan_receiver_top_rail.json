@@ -1,0 +1,75 @@
+{
+  "69349de012d99987998ebf38": {
+    "itemTplToClone": "674fe8b9362ea1f88b0e278d",
+    "parentId": "55818b224bdc2dde698b456f",
+    "handbookParentId": "5b5f755f86f77447ec5d770e",
+    "overrideProperties": {
+      "BackgroundColor": "violet",
+      "ConflictingItems": [
+        "5947db3f86f77447880cf76f",
+        "57486e672459770abd687134",
+        "576fd4ec2459777f0b518431",
+        "5a7c74b3e899ef0014332c29",
+        "591ee00d86f774592f7b841e",
+        "57acb6222459771ec34b5cb0",
+        "6113d6c3290d254f5e6b27db",
+        "5c82343a2e221644f31c0611",
+        "5c82342f2e221644f31c060e",
+        "618a5d5852ecee1505530b2a",
+        "6544d4187c5457729210d277",
+        "63d114019e35b334d82302f7",
+        "5c90c3622e221601da359851",
+        "618a75c9a3884f56c957ca1b",
+        "638db77630c4240f9e06f8b6",
+        "5d0a29ead7ad1a0026013f27",
+        "65f1b2a5c14a07890801fc70",
+        "5d2c76ed48f03532f2136169",
+        "5d2c770c48f0354b4a07c100",
+        "5d2c772c48f0355d95672c25",
+        "5649af884bdc2d1b2b8b4589",
+        "649ec2f3961514b22506b111"
+      ],
+      "CanRequireOnRagfair": true,
+      "CanSellOnRagfair": true,
+      "Ergonomics": 0.5,
+      "Recoil": -0.5
+    },
+    "locales": {
+      "en": {
+        "name": "SOK-12 Chaos Titan receiver top rail - #V2",
+        "shortName": "TTR V2",
+        "description": ""
+      }
+    },
+    "fleaPriceRoubles": 42511,
+    "handbookPriceRoubles": 10241,
+    "addtoBots": true,
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_mount"
+    ],
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_DEAD_SCAV",
+        "probability": 529
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 529
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 529
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 529
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 529
+      }
+    ]
+  }
+}

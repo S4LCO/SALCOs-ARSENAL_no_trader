@@ -1,0 +1,78 @@
+{
+  "695c9595f961a5aded0bb904": {
+    "itemTplToClone": "68935269af943a06e8038c58",
+    "parentId": "5448bc234bdc2d3c308b4569",
+    "handbookParentId": "5b5f754a86f774094242f19b",
+    "overrideProperties": {
+	  "ammoCaliber": "Caliber762x54R",
+      "BackgroundColor": "violet",
+      "Ergonomics": -3,
+      "ConflictingItems": [],
+      "CanRequireOnRagfair": false,
+      "CanSellOnRagfair": false,
+      "Cartridges": [
+        {
+          "_name": "cartridges",
+          "_id": "695c95af905161b6d7b3fa6a",
+		  "_max_count": 24,
+          "_parent": "695c9595f961a5aded0bb904",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5e023d34e8a400319a28ed44",
+                  "5e023d48186a883be655e551",
+                  "5e023cf8186a883be655e54f",
+                  "59e77a2386f7742ee578960a",
+                  "5887431f2459777e1612938f",
+                  "560d61e84bdc2da74d8b4571",
+                  "64b8f7c241772715af0f9c3d",
+                  "64b8f7968532cf95ee0a0dbf",
+                  "64b8f7b5389d7ffd620ccba2"
+                ]
+              }
+            ]
+          },
+          "_proto": "5748538b2459770af276a261"
+        }
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "AK-54R 7.62x54R 24-round magazine",
+        "shortName": "AK-54R",
+        "description": ""
+      }
+    },
+    "fleaPriceRoubles": 81444,
+    "handbookPriceRoubles": 16588,
+    "addtoBots": true,
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_magazine"
+    ],
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_DEAD_SCAV",
+        "probability": 544
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 544
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 544
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 544
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 544
+      }
+    ]
+  }
+}

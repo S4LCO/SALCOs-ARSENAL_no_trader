@@ -1,0 +1,50 @@
+{
+  "69517912aaa4e604f966fe6e": {
+    "itemTplToClone": "5a7c147ce899ef00150bd8b8",
+    "parentId": "550aa4bf4bdc2dd6348b456b",
+    "handbookParentId": "5b5f724c86f774093f2ecf15",
+    "overrideProperties": {
+      "Accuracy": 2,
+      "BackgroundColor": "violet",
+      "ConflictingItems": [],
+      "CanRequireOnRagfair": true,
+      "CanSellOnRagfair": true,
+      "Ergonomics": -2,
+      "Recoil": -12,
+	  "Velocity": 1
+    },
+    "locales": {
+      "en": {
+        "name": "AR-15 Vendetta Precision VP-09 Interceptor 5.56x45 muzzle brake - #V2",
+        "shortName": "VP-09 V2",
+        "description": ""
+      }
+    },
+    "fleaPriceRoubles": 79877,
+    "handbookPriceRoubles": 32111,
+    "addtoBots": true,
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_muzzle"
+    ],
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 566
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 566
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 566
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 566
+      }
+    ]
+  }
+}

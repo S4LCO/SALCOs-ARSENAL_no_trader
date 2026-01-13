@@ -1,0 +1,53 @@
+{
+  "69349c85ac93ec3de7278c21": {
+    "itemTplToClone": "674fe57721a9aa6be6045b96",
+    "parentId": "55818a104bdc2db9688b4569",
+    "handbookParentId": "5b5f75e486f77447ec5d7712",
+    "overrideProperties": {
+	  "Accuracy": 1,
+      "BackgroundColor": "violet",
+      "ConflictingItems": [],
+      "CanRequireOnRagfair": true,
+      "CanSellOnRagfair": true,
+      "Ergonomics": 2.5,
+      "Recoil": -5.5
+    },
+    "locales": {
+      "en": {
+        "name": "SOK-12 Chaos Titan Quad Rail handguard - #V2",
+        "shortName": "TQR V2",
+        "description": ""
+      }
+    },
+    "fleaPriceRoubles": 92157,
+    "handbookPriceRoubles": 15539,
+    "addtoBots": true,
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_handguard"
+    ],
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_DEAD_SCAV",
+        "probability": 529
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 529
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 529
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 529
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 529
+      }
+    ]
+  }
+}

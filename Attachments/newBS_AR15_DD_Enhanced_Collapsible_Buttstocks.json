@@ -1,0 +1,96 @@
+{
+  "69400cff349306c575b49325": {
+    "itemTplToClone": "6516e91f609aaf354b34b3e2",
+    "parentId": "55818a594bdc2db9688b456a",
+    "handbookParentId": "5b5f757486f774093e6cb507",
+    "overrideProperties": {
+      "Accuracy": 1.5,
+      "BackgroundColor": "violet",
+      "Ergonomics": 5,
+      "ConflictingItems": [],
+      "CanRequireOnRagfair": false,
+      "CanSellOnRagfair": false,
+      "Recoil": -24
+    },
+    "locales": {
+      "en": {
+        "name": "AR-15 Daniel Defense Enhanced Collapsible Buttstock (Black) - #V2",
+        "shortName": "DD ECB V2",
+        "description": ""
+      }
+    },
+    "fleaPriceRoubles": 91548,
+    "handbookPriceRoubles": 12777,
+    "addtoBots": true,
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_stock_000"
+    ],
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 481
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 481
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 481
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 481
+      }
+    ]
+  },
+  "69400eafb59d1033c84ab1d2": {
+    "itemTplToClone": "6516e971a3d4c6497930b450",
+    "parentId": "55818a594bdc2db9688b456a",
+    "handbookParentId": "5b5f757486f774093e6cb507",
+    "overrideProperties": {
+      "Accuracy": 1.5,
+      "BackgroundColor": "violet",
+      "Ergonomics": 5,
+      "ConflictingItems": [],
+      "CanRequireOnRagfair": true,
+      "CanSellOnRagfair": true,
+      "Recoil": -24
+    },
+    "locales": {
+      "en": {
+        "name": "AR-15 Daniel Defense Enhanced Collapsible Buttstock (FDE) - #V2",
+        "shortName": "DD ECB V2",
+        "description": ""
+      }
+    },
+    "fleaPriceRoubles": 82145,
+    "handbookPriceRoubles": 12777,
+    "addtoBots": true,
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_stock_000"
+    ],
+    "addtostaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 481
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 481
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 481
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 481
+      }
+    ]
+  }
+}

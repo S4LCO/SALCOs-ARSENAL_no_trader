@@ -1,0 +1,72 @@
+{
+  "695aea00e2fd3a399128f47d": {
+    "itemTplToClone": "5a34fd2bc4a282329a73b4c5",
+    "parentId": "550aa4bf4bdc2dd6348b456b",
+    "handbookParentId": "5b5f724c86f774093f2ecf15",
+    "overrideProperties": {
+      "Accuracy": 3,
+      "BackgroundColor": "violet",
+      "DurabilityBurnModificator": 1.05,
+      "Ergonomics": -1.5,
+      "ConflictingItems": [],
+      "CanRequireOnRagfair": true,
+      "CanSellOnRagfair": true,
+      "RarityPvE": "Rare",
+      "Recoil": -4,
+	  "Slots": [
+      {
+        "_name": "mod_muzzle",
+        "_id": "695aea10274aec2a6beb9af1",
+        "_parent": "695aea00e2fd3a399128f47d",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "5a34fe59c4a282000b1521a2",
+				"695a9eeb3b654dfbcd01c0d7"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_required": false,
+        "_mergeSlotWithChildren": false,
+        "_proto": "55d30c4c4bdc2db4468b457e"
+      }
+	 ]
+    },
+    "locales": {
+      "en": {
+        "name": "AR-10 AAC Blackout 51T 7.62x51 flash hider - #V2",
+        "shortName": "51T 762 V2",
+        "description": ""
+      }
+    },
+    "fleaPriceRoubles": 65871,
+    "handbookPriceRoubles": 16988,
+    "addtoBots": true,
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_muzzle"
+    ],
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 544
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 544
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 544
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 544
+      }
+    ]
+  }
+}

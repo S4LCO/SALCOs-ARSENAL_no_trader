@@ -1,0 +1,76 @@
+{
+  "691377baadf5cb5a56222014": {
+    "itemTplToClone": "5ea172e498dacb342978818e",
+    "parentId": "550aa4bf4bdc2dd6348b456b",
+    "handbookParentId": "5b5f724c86f774093f2ecf15",
+    "overrideProperties": {
+      "Accuracy": 3,
+      "BackgroundColor": "violet",
+      "DurabilityBurnModificator": 1.05,
+      "Ergonomics": -1.5,
+      "ConflictingItems": [],
+      "CanRequireOnRagfair": true,
+      "CanSellOnRagfair": true,
+      "RarityPvE": "Rare",
+      "Recoil": -7,
+	  "Slots": [
+      {
+        "_name": "mod_muzzle",
+        "_id": "695aad28cf5c8cc425c769d5",
+        "_parent": "691377baadf5cb5a56222014",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "55d6190f4bdc2d87028b4567",
+                "55d614004bdc2d86028b4568",
+                "5ea17bbc09aa976f2e7a51cd",
+				
+				"695a9eeb3b654dfbcd01c0d7"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_required": false,
+        "_mergeSlotWithChildren": false,
+        "_proto": "55d30c4c4bdc2db4468b457e"
+      }
+	 ]
+    },
+    "locales": {
+      "en": {
+        "name": "AR-15 SureFire SF4P 5.56x45 flash hider - #V2",
+        "shortName": "SF4P V2",
+        "description": ""
+      }
+    },
+    "fleaPriceRoubles": 72565,
+    "handbookPriceRoubles": 12444,
+    "addtoBots": true,
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_muzzle"
+    ],
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 602
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 602
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 602
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 602
+      }
+    ],
+    "addtoTraders": false
+  }
+}

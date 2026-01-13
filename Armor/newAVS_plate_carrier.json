@@ -1,0 +1,96 @@
+{
+  "6946eb7e67ba8110a6ddfd5e": {
+    "itemTplToClone": "544a5caa4bdc2d1a388b4568",
+    "parentId": "5448e5284bdc2dcb718b4567",
+    "handbookParentId": "5b5f6f8786f77447ed563642",
+    "overrideProperties": {
+      "BackgroundColor": "violet",
+      "CanRequireOnRagfair": true,
+      "CanSellOnRagfair": true
+    },
+    "locales": {
+      "en": {
+        "name": "Crye Precision AVS plate carrier (Ranger Green) - #V2",
+        "shortName": "AVS V2",
+        "description": "Version 2 with improved built-in armor."
+      }
+    },
+    "fleaPriceRoubles": 310541,
+    "handbookPriceRoubles": 110500,
+    "addtoBots": true,
+    "addtoStaticLootContainers": true,
+    "addWeaponPreset": true,
+    "weaponPresets": [
+      {
+        "_id": "6946eb7e67ba8110a6ddfd5f",
+        "_type": "Preset",
+        "_changeWeaponName": false,
+        "_name": "Crye Precision AVS (Ranger Green) - #V2 (Standard)",
+        "_parent": "6946eb7e67ba8110a6ddfd60",
+        "_items": [
+          {
+            "_id": "6946eb7e67ba8110a6ddfd60",
+            "_tpl": "6946eb7e67ba8110a6ddfd5e"
+          },
+          {
+            "_id": "6946eb7e67ba8110a6ddfd61",
+            "_tpl": "6946ebb44e3088ef0bb4dfbe",
+            "parentId": "6946eb7e67ba8110a6ddfd60",
+            "slotId": "Soft_armor_front"
+          },
+          {
+            "_id": "6946eb7e67ba8110a6ddfd62",
+            "_tpl": "6946ebbacf8f3b61ff54d3eb",
+            "parentId": "6946eb7e67ba8110a6ddfd60",
+            "slotId": "Soft_armor_back"
+          },
+          {
+            "_id": "6946eb7e67ba8110a6ddfd63",
+            "_tpl": "6946ebc505411b23e69d540f",
+            "parentId": "6946eb7e67ba8110a6ddfd60",
+            "slotId": "Groin"
+          },
+          {
+            "_id": "6946eb7e67ba8110a6ddfd64",
+            "_tpl": "656f9fa0498d1b7e3e071d98",
+            "parentId": "6946eb7e67ba8110a6ddfd60",
+            "slotId": "Front_plate"
+          },
+          {
+            "_id": "6946eb7e67ba8110a6ddfd65",
+            "_tpl": "656f9fa0498d1b7e3e071d98",
+            "parentId": "6946eb7e67ba8110a6ddfd60",
+            "slotId": "Back_plate"
+          }
+        ],
+        "_encyclopedia": "6946eb7e67ba8110a6ddfd5e"
+      }
+    ],
+    "staticLootContainers": [
+      {
+        "probability": 410,
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE"
+      },
+      {
+        "probability": 410,
+        "containerName": "LOOTCONTAINER_DEAD_SCAV"
+      },
+      {
+        "probability": 410,
+        "containerName": "LOOTCONTAINER_DEAD_SCAV_4X4_2"
+      },
+      {
+        "probability": 410,
+        "containerName": "LOOTCONTAINER_FESTIVE_AIRDROP_SUPPLY_CRATE"
+      },
+      {
+        "probability": 410,
+        "containerName": "LOOTCONTAINER_PMC_BODY"
+      },
+      {
+        "probability": 410,
+        "containerName": "LOOTCONTAINER_SCAV_BODY"
+      }
+    ]
+  }
+}

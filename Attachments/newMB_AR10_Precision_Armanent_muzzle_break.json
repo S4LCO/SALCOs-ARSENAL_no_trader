@@ -1,0 +1,50 @@
+{
+  "6951774c82ecc2fb3a4c452c": {
+    "itemTplToClone": "5cdd7693d7f00c0010373aa5",
+    "parentId": "550aa4bf4bdc2dd6348b456b",
+    "handbookParentId": "5b5f724c86f774093f2ecf15",
+    "overrideProperties": {
+      "Accuracy": 2,
+      "BackgroundColor": "violet",
+      "ConflictingItems": [],
+      "CanRequireOnRagfair": true,
+      "CanSellOnRagfair": true,
+      "Ergonomics": -2,
+      "Recoil": -12,
+	  "Velocity": 1
+    },
+    "locales": {
+      "en": {
+        "name": "AR-10 Precision Armanent M11 Severe-Duty 7.62x51 muzzle brake - #V2",
+        "shortName": "M11 V2",
+        "description": "Enhanced by ODIN."
+      }
+    },
+    "fleaPriceRoubles": 62544,
+    "handbookPriceRoubles": 24546,
+    "addtoBots": true,
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_muzzle"
+    ],
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 501
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 501
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 501
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 501
+      }
+    ]
+  }
+}

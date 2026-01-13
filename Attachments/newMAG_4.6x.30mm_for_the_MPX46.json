@@ -1,0 +1,92 @@
+{
+  "6930a594219c45e84f4915ef": {
+    "itemTplToClone": "5894a05586f774094708ef75",
+    "parentId": "5448bc234bdc2d3c308b4569",
+    "handbookParentId": "5b5f754a86f774094242f19b",
+    "overrideProperties": {
+      "BackgroundColor": "violet",
+      "Ergonomics": -2,
+      "ConflictingItems": [
+	    "58948c8e86f77409493f7266"
+	  ],
+      "CanRequireOnRagfair": true,
+      "CanSellOnRagfair": true,
+      "Cartridges": [
+        {
+          "_id": "6930a5a51433458b5729cf6d",
+          "_max_count": 30,
+          "_name": "cartridges",
+          "_parent": "6930a594219c45e84f4915ef",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5ba26812d4351e003201fef1",
+                  "5ba26835d4351e0035628ff5",
+                  "5ba2678ad4351e44f824b344",
+                  "5ba26844d4351e00334c9475",
+                  "64b6979341772715af0f9c39",
+				  "693ea52afc31c7428d27bc91"
+                ]
+              }
+            ]
+          },
+          "_proto": "5748538b2459770af276a261"
+        }
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "4.6x.30mm 30-round magazine for the MPX46",
+        "shortName": "MPX46",
+        "description": ""
+      }
+    },
+    "fleaPriceRoubles": 22154,
+    "handbookPriceRoubles": 4011,
+    "addtoBots": true,
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_magazine"
+    ],
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_DEAD_SCAV",
+        "probability": 750
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 750
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 750
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 750
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 750
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_AMMO_BOX",
+        "probability": 750
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_AMMO_BOX_3X3_2",
+        "probability": 750
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 750
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE_5X2_2",
+        "probability": 750
+      }
+    ]
+  }
+}

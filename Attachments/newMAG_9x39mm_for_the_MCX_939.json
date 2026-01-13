@@ -1,0 +1,100 @@
+{
+  "69307714cb7a026432094121": {
+    "itemTplToClone": "5c6d450c2e221600114c997d",
+    "parentId": "5448bc234bdc2d3c308b4569",
+    "handbookParentId": "5b5f754a86f774094242f19b",
+    "overrideProperties": {
+      "BackgroundColor": "violet",
+      "Ergonomics": -2,
+      "ConflictingItems": [
+	    "5447a9cd4bdc2dbd208b4567",
+		"6184055050224f204c1da540",
+		"618428466ef05c2ce828f218",
+		"5bb2475ed4351e00853264e3",
+		"623063e994fc3f7b302a9696",
+		"5fbcc1d9016cce60e8341ab3",
+		"5c07c60e0db834002330051f",
+		"5d43021ca4b9362eab4b5e25"
+	  ],
+      "CanRequireOnRagfair": true,
+      "CanSellOnRagfair": true,
+      "Cartridges": [
+        {
+          "_id": "6272874a6c47bd74f92e2089",
+          "_max_count": 30,
+          "_name": "cartridges",
+          "_parent": "69307714cb7a026432094121",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5c0d688c86f77413ae3407b2",
+                  "61962d879bb3d20b0946d385",
+                  "57a0dfb82459774d3078b56c",
+                  "57a0e5022459774d1673f889",
+                  "5c0d668f86f7747ccb7f13b2",
+                  "6576f96220d53a5b8f3e395e",
+				  "693c213c6f5d597989d8437f"
+                ]
+              }
+            ]
+          },
+          "_proto": "5748538b2459770af276a261"
+        }
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "9x39mm Gen.2 STANAG 30-Round magazine for the MCX-939",
+        "shortName": "PM Gen.2",
+        "description": ""
+      }
+    },
+    "fleaPriceRoubles": 33544,
+    "handbookPriceRoubles": 3425,
+    "addtoBots": true,
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_magazine"
+    ],
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_DEAD_SCAV",
+        "probability": 750
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 750
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 750
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 750
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 750
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_AMMO_BOX",
+        "probability": 750
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_AMMO_BOX_3X3_2",
+        "probability": 750
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 750
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE_5X2_2",
+        "probability": 750
+      }
+    ]
+  }
+}

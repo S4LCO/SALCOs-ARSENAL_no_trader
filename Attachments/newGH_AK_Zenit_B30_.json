@@ -1,0 +1,49 @@
+{
+  "69193a87e2147615ce92bf00": {
+    "itemTplToClone": "5efaf417aeb21837e749c7f2",
+    "parentId": "55818a104bdc2db9688b4569",
+    "handbookParentId": "5b5f75e486f77447ec5d7712",
+    "overrideProperties": {
+	  "Accuracy": 1,
+      "BackgroundColor": "violet",
+      "ConflictingItems": [],
+      "CanRequireOnRagfair": true,
+      "CanSellOnRagfair": true,
+      "Ergonomics": 4,
+      "Recoil": -5
+    },
+    "locales": {
+      "en": {
+        "name": "AK Zenit B-30 handguard - #V2",
+        "shortName": "B30 V2",
+        "description": ""
+      }
+    },
+    "fleaPriceRoubles": 87898,
+    "handbookPriceRoubles": 26327,
+    "addtoBots": true,
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_handguard"
+    ],
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 522
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 522
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 522
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 522
+      }
+    ]
+  }
+}

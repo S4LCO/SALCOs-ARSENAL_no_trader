@@ -1,0 +1,52 @@
+{
+  "69349d3c3c72a53711df9f18": {
+    "itemTplToClone": "674fe89a4472d471fb0f07d8",
+    "parentId": "55818b224bdc2dde698b456f",
+    "handbookParentId": "5b5f755f86f77447ec5d770e",
+    "overrideProperties": {
+      "BackgroundColor": "violet",
+      "ConflictingItems": [],
+      "CanRequireOnRagfair": true,
+      "CanSellOnRagfair": true,
+      "Ergonomics": 0.5,
+      "Recoil": -0.5
+    },
+    "locales": {
+      "en": {
+        "name": "SOK-12 Chaos Titan Quad Rail handguard top cover - #V2",
+        "shortName": "TQRTC V2",
+        "description": ""
+      }
+    },
+    "fleaPriceRoubles": 68988,
+    "handbookPriceRoubles": 10241,
+    "addtoBots": true,
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_mount"
+    ],
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_DEAD_SCAV",
+        "probability": 529
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 529
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 529
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 529
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 529
+      }
+    ]
+  }
+}

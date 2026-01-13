@@ -1,0 +1,77 @@
+{
+  "6919b8fb22c91b2446fbcda8": {
+    "itemTplToClone": "5efb0da7a29a85116f6ea05f",
+    "parentId": "5485a8684bdc2da71d8b4567",
+    "handbookParentId": "5b47574386f77428ca22b33b",
+    "overrideProperties": {
+      "ammoAccr": 2,
+      "ammoRec": 9,
+      "ArmorDamage": 52,
+      "BackgroundColor": "red",
+      "CanRequireOnRagfair": true,
+      "CanSellOnRagfair": true,
+	  "Caliber": "Caliber9x19PARA",
+      "Damage": 48,
+      "DurabilityBurnModificator": 1.7,
+      "FragmentationChance": 0.02,
+      "FragmentsCount": 0,
+      "HeatFactor": 1.6719,
+      "HeavyBleedingDelta": 0,
+      "InitialSpeed": 612,
+      "LightBleedingDelta": 0,
+      "MalfFeedChance": 0.011,
+      "MalfMisfireChance": 0.148,
+      "MaxFragmentsCount": 1,
+      "MinFragmentsCount": 1,
+      "MisfireChance": 0.01,
+      "PenetrationChanceObstacle": 0.15,
+      "PenetrationDamageMod": 0.16,
+      "PenetrationPower": 47,
+      "RicochetChance": 0.3,
+      "Tracer": false,
+      "TracerColor": "red"
+    },
+    "locales": {
+      "en": {
+        "name": "9x19mm PBP gzh - Prototype",
+        "shortName": "PBP Proto",
+        "description": ""
+      }
+    },
+    "fleaPriceRoubles": 1298,
+    "handbookPriceRoubles": 720,
+    "addtoBots": true,
+    "addCaliberToAllCloneLocations": true,
+    "addtoStaticAmmo": true,
+    "staticAmmoProbability": 1458,
+    "addtoSpecialSlots": false,
+    "addtoModSlots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_DEAD_SCAV",
+        "probability": 911
+      },
+      {
+        "containerName": "LOOTCONTAINER_DEAD_SCAV_4X4_2",
+        "probability": 911
+      },
+      {
+        "containerName": "LOOTCONTAINER_PMC_BODY",
+        "probability": 911
+      },
+      {
+        "containerName": "LOOTCONTAINER_SCAV_BODY",
+        "probability": 911
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_AMMO_BOX",
+        "probability": 911
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_AMMO_BOX_3X3_2",
+        "probability": 911
+      }
+    ]
+  }
+}
