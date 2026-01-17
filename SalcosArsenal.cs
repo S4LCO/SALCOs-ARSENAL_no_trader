@@ -92,6 +92,7 @@ public sealed class SalcosArsenalMod(
 			// IMPORTANT: Never crash server because of global compat patches.
 		}
 
-        logger.LogInformation("[SALCO'S ARSENAL v1.0.0 successfully loaded]");
+        logger.LogInformation("[SALCO'S ARSENAL v1.0.1 successfully loaded]");
     }
 }
+
