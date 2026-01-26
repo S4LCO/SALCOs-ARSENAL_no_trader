@@ -1,0 +1,325 @@
+{
+  "6972548d29771316cd128869": {
+    "itemTplToClone": "5fbcc1d9016cce60e8341ab3",
+    "parentId": "5447b5f14bdc2d61278b4567",
+    "handbookParentId": "5b5f78fc86f77409407a7f90",
+    "overrideProperties": {
+      "ammoCaliber": "Caliber762x35",
+      "bFirerate": 800,
+      "bHearDist": 30,
+      "durabSpawnMax": 100,
+      "durabSpawnMin": 95,
+      "BackgroundColor": "red",
+      "CanRequireOnRagfair": true,
+      "CanSellOnRagfair": true,
+      "defAmmo": "5fbe3ffdf8b6a877a729ea82",
+      "defMagType": "55d4887d4bdc2d962f8b4570",
+      "Ergonomics": 45,
+      "RarityPvE": "Superrare",
+      "RecoilForceBack": 321,
+      "RecoilForceUp": 122,
+      "RepairCost": 480,
+      "weapClass": "assaultRifle",
+      "weapFireType": [
+        "fullauto",
+        "single"
+      ],
+      "Chambers": [
+        {
+          "_name": "patron_in_weapon",
+          "_id": "6972558d8cc9daab8e76ab3c",
+          "_parent": "6972548d29771316cd128869",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5fbe3ffdf8b6a877a729ea82",
+                  "5fd20ff893a8961fc660a954",
+                  "619636be6db0f2477964e710",
+                  "6196364158ef8c428c287d9f",
+                  "6196365d58ef8c428c287da1",
+                  "64b8725c4b75259c590fa899"
+                ]
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d4af244bdc2d962f8b4571"
+        }
+      ],
+      "Slots": [
+        {
+          "_name": "mod_pistol_grip",
+          "_id": "6972559df5d59d885f3e3cad",
+          "_parent": "6972548d29771316cd128869",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "59db3a1d86f77429e05b4e92"
+                ]
+              }
+            ]
+          },
+          "_required": true,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_magazine",
+          "_id": "697255a8ff4fe56d93079db3",
+          "_parent": "6972548d29771316cd128869",
+          "_props": {
+            "filters": [
+              {
+                "AnimationIndex": -1,
+                "Filter": [
+                  "693eaa5b4015878f9ce091fc"
+                ]
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c394bdc2dae468b4577"
+        },
+        {
+          "_name": "mod_reciever",
+          "_id": "697255af49c22134859081bf",
+          "_parent": "6972548d29771316cd128869",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5fbcc3e4d6fa9c00c571bb58"
+                ]
+              }
+            ]
+          },
+          "_required": true,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_stock",
+          "_id": "697255b8e2537ccb09b5c159",
+          "_parent": "6972548d29771316cd128869",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "68badb6458dbe419740b1520"
+                ]
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_charge",
+          "_id": "697255bc982cd7e20ae9236b",
+          "_parent": "6972548d29771316cd128869",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5fbcc640016cce60e8341acc"
+                ]
+              }
+            ]
+          },
+          "_required": true,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        }
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "GUNGNIR",
+        "shortName": "GUNGNIR",
+        "description": "GUNGNIR is derived from Norse mythology and refers to Odin’s spear, a weapon symbolizing inevitability and precision."
+      }
+    },
+    "masteries": true,
+    "fleaPriceRoubles": 256211,
+    "handbookPriceRoubles": 105488,
+    "addtoBots": true,
+    "addtoModSlots": false,
+    "addtoStaticLootContainers": false,
+    "addtoTraders": false,
+    "addWeaponPreset": true,
+    "weaponPresets": [
+      {
+        "_id": "69725633046c7f317db9e2a5",
+        "_type": "Preset",
+        "_changeWeaponName": false,
+        "_name": "ODINS GUNGNIR Default",
+        "_encyclopedia": "6972548d29771316cd128869",
+        "_parent": "6972563e2aae918b308ccbbc",
+        "_items": [
+          {
+            "_id": "6972563e2aae918b308ccbbc",
+            "_tpl": "6972548d29771316cd128869",
+            "upd": {
+              "FireMode": {
+                "FireMode": "fullauto"
+              }
+            }
+          },
+          {
+            "_id": "6972564d4a7e5e2984c8f877",
+            "_tpl": "59db3a1d86f77429e05b4e92",
+            "parentId": "6972563e2aae918b308ccbbc",
+            "slotId": "mod_pistol_grip"
+          },
+          {
+            "_id": "69725666e0008ee57cac28ea",
+            "_tpl": "693eaa5b4015878f9ce091fc",
+            "parentId": "6972563e2aae918b308ccbbc",
+            "slotId": "mod_magazine"
+          },
+          {
+            "_id": "69725669d87da9223c416349",
+            "_tpl": "5fbcc3e4d6fa9c00c571bb58",
+            "parentId": "6972563e2aae918b308ccbbc",
+            "slotId": "mod_reciever"
+          },
+          {
+            "_id": "6972609756eb9cbc8912dcf3",
+            "_tpl": "644a3df63b0b6f03e101e065",
+            "parentId": "69725669d87da9223c416349",
+            "slotId": "mod_tactical"
+          },
+          {
+            "_id": "69725eb4e6ec65e3927aa4ed",
+            "_tpl": "58491f3324597764bc48fa02",
+            "parentId": "69725669d87da9223c416349",
+            "slotId": "mod_scope"
+          },
+          {
+            "_id": "6972566d8ee0896607b6574f",
+            "_tpl": "681245a31eb182c02f0d7f09",
+            "parentId": "69725669d87da9223c416349",
+            "slotId": "mod_barrel"
+          },
+          {
+            "_id": "69725677693e92d409a92e54",
+            "_tpl": "695aea00e2fd3a399128f47d",
+            "parentId": "6972566d8ee0896607b6574f",
+            "slotId": "mod_muzzle"
+          },
+          {
+            "_id": "697256f2af27ebcb85edd707",
+            "_tpl": "695a9eeb3b654dfbcd01c0d7",
+            "parentId": "69725677693e92d409a92e54",
+            "slotId": "mod_muzzle"
+          },
+          {
+            "_id": "6972568acff344a1d1a6e9d3",
+            "_tpl": "68124640c5fd00ec0a01a237",
+            "parentId": "6972566d8ee0896607b6574f",
+            "slotId": "mod_gas_block"
+          },
+          {
+            "_id": "697256905d4ebcba385f8de7",
+            "_tpl": "681236df5cbf0518e00557a0",
+            "parentId": "69725669d87da9223c416349",
+            "slotId": "mod_handguard"
+          },
+          {
+            "_id": "69725ef74d565fd5f6f3289d",
+            "_tpl": "5b7be4895acfc400170e2dd5",
+            "parentId": "697256905d4ebcba385f8de7",
+            "slotId": "mod_foregrip"
+          },
+          {
+            "_id": "69725f73238ab4b758a20a6f",
+            "_tpl": "6913809f3cf4b24af9e9175a",
+            "parentId": "69725ef74d565fd5f6f3289d",
+            "slotId": "mod_foregrip"
+          },
+          {
+            "_id": "697256e93d7270d2c17a454f",
+            "_tpl": "5bc09a30d4351e00367fb7c8",
+            "parentId": "697256905d4ebcba385f8de7",
+            "slotId": "mod_sight_front"
+          },
+          {
+            "_id": "697256988d84b29274427b91",
+            "_tpl": "5bc09a18d4351e003562b68e",
+            "parentId": "69725669d87da9223c416349",
+            "slotId": "mod_sight_rear"
+          },
+          {
+            "_id": "6972569de9ab45251a9f5ba4",
+            "_tpl": "68badb6458dbe419740b1520",
+            "parentId": "6972563e2aae918b308ccbbc",
+            "slotId": "mod_stock"
+          },
+          {
+            "_id": "69725e05977037acac274daf",
+            "_tpl": "68badc0366a72211fe004bc7",
+            "parentId": "6972569de9ab45251a9f5ba4",
+            "slotId": "mod_stock_000"
+          },
+          {
+            "_id": "697256a1fc4975689e308ad0",
+            "_tpl": "5fbcc640016cce60e8341acc",
+            "parentId": "6972563e2aae918b308ccbbc",
+            "slotId": "mod_charge"
+          }
+        ]
+      }
+    ],
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 569
+      },
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 456
+      },
+      {
+        "containerName": "LOOTCONTAINER_LONG_WEAPON_BOX",
+        "probability": 677
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 566
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 544
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 581
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 459
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_AMMO_BOX",
+        "probability": 478
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_AMMO_BOX_3X3_2",
+        "probability": 562
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 670
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE_5X2_2",
+        "probability": 455
+      }
+    ]
+  }
+}
