@@ -17,7 +17,7 @@ public sealed record ModMetadata : AbstractModMetadata
     public override string ModGuid { get; init; } = "de.salco.salcosarsenalv2";
     public override string Name { get; init; } = "Salco's Arsenal";
     public override string Author { get; init; } = "Salco";
-    public override SemanticVersioning.Version Version { get; init; } = new("1.0.2");
+    public override SemanticVersioning.Version Version { get; init; } = new("1.0.3");
     public override SemanticVersioning.Range SptVersion { get; init; } = new("~4.0.3");
     public override string License { get; init; } = "MIT";
     public override bool? IsBundleMod { get; init; } = true;
@@ -92,6 +92,6 @@ public sealed class SalcosArsenalMod(
 			// IMPORTANT: Never crash server because of global compat patches.
 		}
 
-        logger.LogInformation("[SALCO'S ARSENAL v1.0.1 successfully loaded]");
+        logger.LogInformation("[SALCO'S ARSENAL v1.0.3 successfully loaded]");
     }
 }
