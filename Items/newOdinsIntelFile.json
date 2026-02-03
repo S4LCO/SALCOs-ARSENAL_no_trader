@@ -1,0 +1,46 @@
+{
+  "697b5e5784d6854d3b646ec0": {
+    "itemTplToClone": "5c12613b86f7743bbe2c3f76",
+    "parentId": "5448ecbe4bdc2d60728b4568",
+    "handbookParentId": "5b47574386f77428ca22b341",
+    "overrideProperties": {
+      "BackgroundColor": "violet",
+      "CanRequireOnRagfair": true,
+      "CanSellOnRagfair": true
+    },
+    "locales": {
+      "en": {
+        "name": "Order details for Odin",
+        "shortName": "Order",
+        "description": "This is a liquidation order for Odin and is directed against a specific PMC that must be eliminated urgently."
+      }
+    },
+    "fleaPriceRoubles": 850000,
+    "handbookPriceRoubles": 69000,
+    "addtoBots": false,
+    "addtoTraders": false,
+    "addtoStaticLootContainers": false,
+	"staticLootContainers": [
+      {
+        "probability": 120,
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE"
+      },
+      {
+        "probability": 111,
+        "containerName": "LOOTCONTAINER_DEAD_SCAV"
+      },
+      {
+        "probability": 111,
+        "containerName": "LOOTCONTAINER_DEAD_SCAV_4X4_2"
+      },
+      {
+        "probability": 111,
+        "containerName": "LOOTCONTAINER_PMC_BODY"
+      },
+      {
+        "probability": 111,
+        "containerName": "LOOTCONTAINER_SCAV_BODY"
+      }
+    ]
+  }
+}

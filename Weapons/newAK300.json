@@ -1,0 +1,429 @@
+{
+  "697e6727df49b1764db8319e": {
+    "itemTplToClone": "5ac66d015acfc400180ae6e4",
+    "parentId": "5447b5f14bdc2d61278b4567",
+    "handbookParentId": "5b5f78fc86f77409407a7f90",
+    "overrideProperties": {
+      "ammoCaliber": "Caliber762x35",
+      "bFirerate": 750,
+      "BackgroundColor": "violet",
+      "CanRequireOnRagfair": true,
+      "CanSellOnRagfair": true,
+      "defAmmo": "6196365d58ef8c428c287da1",
+      "defMagType": "5c0548ae0db834001966a3c2",
+      "Ergonomics": 36,
+      "RarityPvE": "Rare",
+      "RecoilForceBack": 299,
+      "RecoilForceUp": 107,
+      "RepairCost": 266,
+      "weapClass": "assaultRifle",
+      "weapFireType": [
+        "fullauto",
+        "single"
+      ],
+      "Slots": [
+        {
+          "_name": "mod_gas_block",
+          "_id": "ddbe65926dbe78013869b1d4",
+          "_parent": "697e6727df49b1764db8319e",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "59c6633186f7740cf0493bb9",
+                  "59d64ec286f774171d1e0a42",
+                  "59e649f986f77411d949b246",
+                  "59ccfdba86f7747f2109a587",
+				  "6934988fd675e60e80e81c07"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": true,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_launcher",
+          "_id": "0c007fe538992b9ddf87d698",
+          "_parent": "697e6727df49b1764db8319e",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_muzzle",
+          "_id": "292810b5cdb5aa4d1c805d74",
+          "_parent": "697e6727df49b1764db8319e",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5ac72e615acfc43f67248aa0",
+                  "5ac72e725acfc400180ae701",
+                  "5f633f791b231926f2329f13",
+                  "5cc9a96cd7f00c011c04e04a",
+                  "5943ee5a86f77413872d25ec",
+                  "5e21ca18e4d47f0da15e77dd",
+                  "59bffc1f86f77435b128b872",
+                  "5a9fbb84a2750c00137fa685"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_pistol_grip",
+          "_id": "c5db8c581ac7658f28f9956e",
+          "_parent": "697e6727df49b1764db8319e",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5f6341043ada5942720e2dc5",
+                  "6087e663132d4d12c81fd96b",
+                  "5beec8ea0db834001a6f9dbf",
+                  "5649ad3f4bdc2df8348b4585",
+                  "5649ade84bdc2d1b2b8b4587",
+                  "59e62cc886f77440d40b52a1",
+                  "5a0071d486f77404e23a12b2",
+                  "57e3dba62459770f0c32322b",
+                  "5cf54404d7f00c108840b2ef",
+                  "5e2192a498a36665e8337386",
+                  "5b30ac585acfc433000eb79c",
+                  "59e6318286f77444dd62c4cc",
+                  "5cf50850d7f00c056e24104c",
+                  "5cf508bfd7f00c056e24104e",
+                  "5947f92f86f77427344a76b1",
+                  "5947fa2486f77425b47c1a9b",
+                  "5c6bf4aa2e2216001219b0ae",
+                  "5649ae4a4bdc2d1b2b8b4588",
+                  "5998517986f7746017232f7e",
+                  "623c3be0484b5003161840dc",
+                  "628a664bccaab13006640e47",
+                  "628c9ab845c59e5b80768a81",
+                  "63f4da90f31d4a33b87bd054",
+                  "648ae3e356c6310a830fc291",
+                  "651580dc71a4f10aec4b6056"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": true,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_reciever",
+          "_id": "7ba95520a95ec87226df7923",
+          "_parent": "697e6727df49b1764db8319e",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5649af094bdc2df8348b4586",
+                  "5ac50da15acfc4001718d287",
+                  "5d2c76ed48f03532f2136169",
+                  "5d2c770c48f0354b4a07c100",
+                  "5d2c772c48f0355d95672c25",
+                  "5649af884bdc2d1b2b8b4589",
+                  "628a665a86cbd9750d2ff5e5"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_sight_rear",
+          "_id": "7d5b4358c39fc3903fe8dd93",
+          "_parent": "697e6727df49b1764db8319e",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5ac733a45acfc400192630e2",
+                  "5649b0544bdc2d1b2b8b458a",
+                  "5ac72e475acfc400180ae6fe",
+                  "5649d9a14bdc2d79388b4580",
+                  "628a7b23b0f75035732dd565",
+                  "5bf3f59f0db834001a6fa060",
+                  "649ec2cec93611967b03495e"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_stock",
+          "_id": "2cad464cd79d17fec6fccd06",
+          "_parent": "697e6727df49b1764db8319e",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5ac50c185acfc400163398d4",
+                  "5cf50fc5d7f00c056c53f83c",
+                  "5ac78eaf5acfc4001926317a",
+                  "5beec8b20db834001961942a",
+                  "6386300124a1dc425c00577a",
+                  "649ec87d8007560a9001ab36",
+                  "6761779c48fa5c377e06fc3f"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_magazine",
+          "_id": "7e8bf6085275d6fafe4ced20",
+          "_parent": "697e6727df49b1764db8319e",
+          "_props": {
+            "filters": [
+              {
+                "AnimationIndex": -1,
+                "Filter": [
+                  "5c0548ae0db834001966a3c2",
+                  "5ac66c5d5acfc4001718d314",
+                  "6764139c44b3c96e7b0e2f7b"
+                ]
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c394bdc2dae468b4577"
+        },
+        {
+          "_name": "mod_mount_000",
+          "_id": "857dac79c131d088693e15c9",
+          "_parent": "697e6727df49b1764db8319e",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5947db3f86f77447880cf76f",
+                  "6113d6c3290d254f5e6b27db",
+                  "57486e672459770abd687134",
+                  "618a5d5852ecee1505530b2a",
+                  "5c82342f2e221644f31c060e",
+                  "576fd4ec2459777f0b518431",
+                  "5c82343a2e221644f31c0611",
+                  "5cf638cbd7f00c06595bc936",
+                  "5a7c74b3e899ef0014332c29",
+                  "591ee00d86f774592f7b841e",
+                  "5d0a29ead7ad1a0026013f27",
+                  "618a75c9a3884f56c957ca1b",
+                  "57acb6222459771ec34b5cb0",
+                  "5c61a40d2e2216001403158d",
+                  "5c90c3622e221601da359851",
+                  "638db77630c4240f9e06f8b6",
+                  "63d114019e35b334d82302f7",
+                  "6544d4187c5457729210d277",
+                  "65f1b1176dbd6c5ba2082eed"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_charge",
+          "_id": "c73f26c8df318c031e725cea",
+          "_parent": "697e6727df49b1764db8319e",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "6130ca3fd92c473c77020dbd",
+                  "5648ac824bdc2ded0b8b457d"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        }
+      ],
+      "Chambers": [
+        {
+          "_name": "patron_in_weapon",
+          "_id": "efe0d848f2799c344717b67e",
+          "_parent": "697e6727df49b1764db8319e",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5fbe3ffdf8b6a877a729ea82",
+                  "5fd20ff893a8961fc660a954",
+                  "64b8725c4b75259c590fa899",
+                  "619636be6db0f2477964e710",
+                  "6196364158ef8c428c287d9f",
+                  "6196365d58ef8c428c287da1",				  
+                  "697270610a67da4c9fb12a07",				  
+                  "6929977813d8d2afe7cb0267"
+                ],
+                "Shift": 0
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "Kalashnikov AK-300 .300 Blackout assault rifle",
+        "shortName": "AK-300",
+        "description": ""
+      }
+    },
+    "masteries": true,
+    "fleaPriceRoubles": 72685,
+    "handbookPriceRoubles": 26541,
+    "addtoBots": true,
+    "addtoModSlots": true,
+    "addtoStaticLootContainers": true,
+    "addtoTraders": false,
+    "addWeaponPreset": true,
+    "weaponPresets": [
+      {
+        "_id": "697e67374d8f84cc748c8a8b",
+        "_type": "Preset",
+        "_changeWeaponName": false,
+        "_name": "AK-300 default",
+        "_encyclopedia": "697e6727df49b1764db8319e",
+        "_parent": "68f0a1b2c3d4e5f67890ab02",
+        "_items": [
+          {
+            "_id": "68f0a1b2c3d4e5f67890ab02",
+            "_tpl": "697e6727df49b1764db8319e"
+          },
+          {
+            "_id": "697e673cee021316154c91c0",
+            "_tpl": "59c6633186f7740cf0493bb9",
+            "parentId": "68f0a1b2c3d4e5f67890ab02",
+            "slotId": "mod_gas_block"
+          },
+          {
+            "_id": "68f0a1b2c3d4e5f67890ab04",
+            "_tpl": "5648b1504bdc2d9d488b4584",
+            "parentId": "697e673cee021316154c91c0",
+            "slotId": "mod_handguard"
+          },
+          {
+            "_id": "697e674b184d192500df37b3",
+            "_tpl": "5ac72e725acfc400180ae701",
+            "parentId": "68f0a1b2c3d4e5f67890ab02",
+            "slotId": "mod_muzzle"
+          },
+          {
+            "_id": "697e6750b8e8ffcdd50e3789",
+            "_tpl": "5649ade84bdc2d1b2b8b4587",
+            "parentId": "68f0a1b2c3d4e5f67890ab02",
+            "slotId": "mod_pistol_grip"
+          },
+          {
+            "_id": "697e6753de180ed32379ab44",
+            "_tpl": "5ac50da15acfc4001718d287",
+            "parentId": "68f0a1b2c3d4e5f67890ab02",
+            "slotId": "mod_reciever"
+          },
+          {
+            "_id": "697e6756326d07487738db4c",
+            "_tpl": "5ac733a45acfc400192630e2",
+            "parentId": "68f0a1b2c3d4e5f67890ab02",
+            "slotId": "mod_sight_rear"
+          },
+          {
+            "_id": "697e67597091205ca69fd1b6",
+            "_tpl": "5ac50c185acfc400163398d4",
+            "parentId": "68f0a1b2c3d4e5f67890ab02",
+            "slotId": "mod_stock"
+          },
+          {
+            "_id": "697e675b5a1862329632a409",
+            "_tpl": "5ac66c5d5acfc4001718d314",
+            "parentId": "68f0a1b2c3d4e5f67890ab02",
+            "slotId": "mod_magazine"
+          }
+        ]
+      }
+    ],
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 569
+      },
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 456
+      },
+      {
+        "containerName": "LOOTCONTAINER_LONG_WEAPON_BOX",
+        "probability": 677
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 566
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 544
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 581
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 459
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_AMMO_BOX",
+        "probability": 478
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_AMMO_BOX_3X3_2",
+        "probability": 562
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 670
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE_5X2_2",
+        "probability": 455
+      }
+    ]
+  }
+}

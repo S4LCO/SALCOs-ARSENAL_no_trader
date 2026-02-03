@@ -1,0 +1,97 @@
+{
+  "697d452f5c09f5a8bd269594": {
+    "itemTplToClone": "544fb3f34bdc2d03748b456a",
+    "parentId": "5448f3a64bdc2d60728b456a",
+    "handbookParentId": "5b47574386f77428ca22b33a",
+    "overrideProperties": {
+	  "Prefab": {
+      "path": "assets/content/weapons/usable_items/item_syringe/item_stimulator_sj9_tglabs_loot.bundle",
+      "rcid": ""
+    },
+      "BackgroundColor": "violet",
+      "CanRequireOnRagfair": true,
+      "CanSellOnRagfair": true,
+      "medUseTime": 3,
+      "MaxHpResource": 12,
+      "RarityPvE": "Superrare",
+      "effects_damage": {
+        "Pain": {
+          "delay": 0,
+          "duration": 60,
+          "fadeOut": 10
+        },
+        "Fracture": {
+          "cost": 0,
+          "delay": 0,
+          "duration": 60,
+          "fadeOut": 0
+        },
+		"DestroyedPart": {
+          "delay": 0,
+          "duration": 0,
+          "fadeOut": 0,
+          "healthPenaltyMax": 75,
+          "healthPenaltyMin": 60
+		}
+      },
+	  "effects_health": {
+		"Energy": {
+		  "value": -50
+		},
+		"Hydration": {
+		  "value": -50
+	    }
+	  }
+    },
+    "locales": {
+      "en": {
+        "name": "B.O.N.E. stimulant injector",
+        "shortName": "B.O.N.E.",
+        "description": "B.O.N.E. (Biochemical Osteo-Neural Enhancer) is an advanced combat stimulant designed to accelerate bone regeneration and restore neural energy flow. It rapidly stabilizes fractures while providing a sustained surge of energy, allowing operators to stay mobile and combat-ready under extreme conditions."
+      }
+    },
+    "fleaPriceRoubles": 412441,
+    "handbookPriceRoubles": 102654,
+    "addtoBots": true,
+    "addtoModSlots": true,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "probability": 245,
+        "containerName": "LOOTCONTAINER_DEAD_SCAV"
+      },
+      {
+        "probability": 245,
+        "containerName": "LOOTCONTAINER_AIRDROP_MEDICAL_CRATE"
+      },
+      {
+        "probability": 245,
+        "containerName": "LOOTCONTAINER_DUFFLE_BAG"
+      },
+      {
+        "probability": 245,
+        "containerName": "LOOTCONTAINER_DUFFLE_BAG_ADV"
+      },
+      {
+        "probability": 245,
+        "containerName": "LOOTCONTAINER_LAB_TECHNICIAN_BODY"
+      },
+      {
+        "probability": 245,
+        "containerName": "LOOTCONTAINER_MEDBAG_SMU06"
+      },
+      {
+        "probability": 245,
+        "containerName": "LOOTCONTAINER_MEDBAG_SMU06_ADV"
+      },
+      {
+        "probability": 245,
+        "containerName": "LOOTCONTAINER_MEDCASE"
+      },
+      {
+        "probability": 245,
+        "containerName": "LOOTCONTAINER_MEDICAL_SUPPLY_CRATE"
+      }
+    ]
+  }
+}

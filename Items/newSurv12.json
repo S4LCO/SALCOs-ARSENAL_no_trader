@@ -1,75 +1,83 @@
 {
-  "6913748029e660a892f84193": {
-    "itemTplToClone": "5c0e530286f7747fa1419862",
-    "parentId": "5448f3a64bdc2d60728b456a",
-    "handbookParentId": "5b47574386f77428ca22b33a",
+  "69161d7c4f556aa60c98aa13": {
+    "itemTplToClone": "5d02797c86f774203f38e30a",
+    "parentId": "5448f3ac4bdc2dce718b4569",
+    "handbookParentId": "5b47574386f77428ca22b339",
     "overrideProperties": {
       "BackgroundColor": "violet",
       "CanRequireOnRagfair": true,
       "CanSellOnRagfair": true,
-      "medUseTime": 3,
-      "MaxHpResource": 3,
       "RarityPvE": "Superrare",
+      "MaxHpResource": 12,
+      "medUseTime": 16,
+      "Height": 1,
+      "Width": 2,
       "effects_damage": {
-        "Pain": {
+        "Fracture": {
           "delay": 0,
-          "duration": 300,
-          "fadeOut": 5
+          "duration": 0,
+          "fadeOut": 0,
+          "healthPenaltyMax": 0,
+          "healthPenaltyMin": 0
         },
-        "Contusion": {
+        "DestroyedPart": {
           "delay": 0,
-          "duration": 300,
-          "fadeOut": 0
+          "duration": 0,
+          "fadeOut": 0,
+          "healthPenaltyMax": 69,
+          "healthPenaltyMin": 55
         }
-      }
+      },
+      "effects_health": []
     },
     "locales": {
       "en": {
-        "name": "Propital regenerative stimulant injector - #V2",
-        "shortName": "Prop. V2",
+        "name": "Surv12 field surgical kit - #V2",
+        "shortName": "Surv12 V2",
         "description": ""
       }
     },
-    "fleaPriceRoubles": 123545,
-    "handbookPriceRoubles": 72555,
+    "fleaPriceRoubles": 217874,
+    "handbookPriceRoubles": 72000,
     "addtoBots": true,
+    "addtoSpecialSlots": true,
     "addtoModSlots": true,
     "addtoStaticLootContainers": true,
     "staticLootContainers": [
       {
-        "probability": 455,
+        "probability": 450,
         "containerName": "LOOTCONTAINER_DEAD_SCAV"
       },
       {
-        "probability": 455,
+        "probability": 450,
         "containerName": "LOOTCONTAINER_AIRDROP_MEDICAL_CRATE"
       },
       {
-        "probability": 455,
+        "probability": 450,
         "containerName": "LOOTCONTAINER_DUFFLE_BAG"
       },
       {
-        "probability": 455,
+        "probability": 450,
         "containerName": "LOOTCONTAINER_DUFFLE_BAG_ADV"
       },
       {
-        "probability": 455,
+        "probability": 450,
         "containerName": "LOOTCONTAINER_LAB_TECHNICIAN_BODY"
       },
       {
-        "probability": 455,
+        "probability": 450,
         "containerName": "LOOTCONTAINER_MEDBAG_SMU06"
       },
       {
-        "probability": 455,
+        "probability": 450,
         "containerName": "LOOTCONTAINER_MEDBAG_SMU06_ADV"
       },
       {
-        "probability": 455,
+        "probability": 450,
         "containerName": "LOOTCONTAINER_MEDCASE"
       },
       {
-        "probability": 455,
+        "probability": 450,
         "containerName": "LOOTCONTAINER_MEDICAL_SUPPLY_CRATE"
       }
     ]

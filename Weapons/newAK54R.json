@@ -6,8 +6,8 @@
     "overrideProperties": {
       "ammoCaliber": "Caliber762x54R",
       "BackgroundColor": "violet",
-	  "CanRequireOnRagfair": false,
-      "CanSellOnRagfair": false,
+	  "CanRequireOnRagfair": true,
+      "CanSellOnRagfair": true,
       "Chambers": [
         {
           "_name": "patron_in_weapon",
@@ -277,14 +277,6 @@
       {
         "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
         "probability": 459
-      },
-      {
-        "containerName": "LOOTCONTAINER_WOODEN_AMMO_BOX",
-        "probability": 478
-      },
-      {
-        "containerName": "LOOTCONTAINER_WOODEN_AMMO_BOX_3X3_2",
-        "probability": 562
       },
       {
         "containerName": "LOOTCONTAINER_WOODEN_CRATE",

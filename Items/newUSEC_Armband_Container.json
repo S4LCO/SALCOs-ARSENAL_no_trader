@@ -7,6 +7,7 @@
       "BackgroundColor": "violet",
       "CanRequireOnRagfair": true,
       "CanSellOnRagfair": true,
+	  "IsAlwaysAvailableForInsurance": false,
       "Height": 1,
       "Width": 1,
       "Weight": 0.05,

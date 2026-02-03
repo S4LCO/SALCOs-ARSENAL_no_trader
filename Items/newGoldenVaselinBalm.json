@@ -11,6 +11,11 @@
       "RarityPvE": "Rare",
       "medUseTime": 6,
       "effects_damage": {
+		"LightBleeding": {
+          "delay": 0,
+          "duration": 60,
+          "fadeOut": 0
+        },
         "Contusion": {
           "delay": 0,
           "duration": 0,
@@ -42,7 +47,7 @@
         "description": "Golden Vaseline Balsam is an almost secret mixture of German ingredients such as potatoes and sauerkraut. No one knows what else it contains, but it has an impressive effect. Developed by ODIN and Sanitar."
       }
     },
-    "fleaPriceRoubles": 62555,
+    "fleaPriceRoubles": 78988,
     "handbookPriceRoubles": 45888,
     "addtoBots": true,
     "addtoModSlots": true,

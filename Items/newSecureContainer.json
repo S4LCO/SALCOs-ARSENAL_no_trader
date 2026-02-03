@@ -184,14 +184,14 @@
     "handbookPriceRoubles": 250000,
     "addtoBots": false,
     "addtoTraders": false,
-    "addtoStaticLootContainers": true,
+    "addtoStaticLootContainers": false,
     "staticLootContainers": [
       {
-        "probability": 1,
+        "probability": 5,
         "containerName": "LOOTCONTAINER_DEAD_SCAV"
       },
       {
-        "probability": 1,
+        "probability": 5,
         "containerName": "LOOTCONTAINER_PMC_BODY"
       }
     ]
